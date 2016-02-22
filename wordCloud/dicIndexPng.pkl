@@ -1,0 +1,1314 @@
+(dp0
+S'Rockefeller Center'
+p1
+S'Rockefeller_Center.png'
+p2
+sS'Flatiron Building'
+p3
+S'Flatiron_Building.png'
+p4
+sS'Bond Street'
+p5
+S'Bond_Street.png'
+p6
+sS'The Jewish Theological Seminary'
+p7
+S'The_Jewish_Theological_Seminary.png'
+p8
+sS'TriBeCa'
+p9
+S'TriBeCa.png'
+p10
+sS'West Village'
+p11
+S'West_Village.png'
+p12
+sS'Citicorp Center'
+p13
+S'Citicorp_Center.png'
+p14
+sS'Madison Square Garden'
+p15
+S'Madison_Square_Garden.png'
+p16
+sS'The Mall'
+p17
+S'The_Mall.png'
+p18
+sS'Episcopal Church Center'
+p19
+S'Episcopal_Church_Center.png'
+p20
+sS"Central Park's Literary Walk"
+p21
+S'Central_Parks_Literary_Walk.png'
+p22
+sS'Canyon of Heroes'
+p23
+S'Canyon_of_Heroes.png'
+p24
+sS'Good Morning America Studios'
+p25
+S'Good_Morning_America_Studios.png'
+p26
+sS'Gotham Carriages'
+p27
+S'Gotham_Carriages.png'
+p28
+sS'Cooper Hewitt, Smithsonian Design Museum'
+p29
+S'Cooper_Hewitt_Smithsonian_Design_Museum.png'
+p30
+sS'The Dakota'
+p31
+S'The_Dakota.png'
+p32
+sS'Alice in Wonderland Statue'
+p33
+S'Alice_in_Wonderland_Statue.png'
+p34
+sS"St. Paul's Chapel"
+p35
+S'St_Pauls_Chapel.png'
+p36
+sS'Bialystoker Synagogue'
+p37
+S'Bialystoker_Synagogue.png'
+p38
+sS'Irish Hunger Memorial'
+p39
+S'Irish_Hunger_Memorial.png'
+p40
+sS'Park Avenue Christian Church'
+p41
+S'Park_Avenue_Christian_Church.png'
+p42
+sS'New York Telephone Company Building'
+p43
+S'New_York_Telephone_Company_Building.png'
+p44
+sS'Beresford'
+p45
+S'Beresford.png'
+p46
+sS'Hamilton Grange National Memorial'
+p47
+S'Hamilton_Grange_National_Memorial.png'
+p48
+sS'Brookfield Place - World Financial Center'
+p49
+S'Brookfield_Place__World_Financial_Center.png'
+p50
+sS'The High Bridge'
+p51
+S'The_High_Bridge.png'
+p52
+sS'The Metropolitan Museum of Art'
+p53
+S'The_Metropolitan_Museum_of_Art.png'
+p54
+sS'Our Lady of Pompeii'
+p55
+S'Our_Lady_of_Pompeii.png'
+p56
+sS"St. Patrick's Old Cathedral"
+p57
+S'St_Patricks_Old_Cathedral.png'
+p58
+sS'Tiles For America'
+p59
+S'Tiles_For_America.png'
+p60
+sS'John Street United Methodist Church'
+p61
+S'John_Street_United_Methodist_Church.png'
+p62
+sS'Washington Square Park'
+p63
+S'Washington_Square_Park.png'
+p64
+sS'Queen of Greene Street'
+p65
+S'Queen_of_Greene_Street.png'
+p66
+sS'The Actors Studio'
+p67
+S'The_Actors_Studio.png'
+p68
+sS'Mother African Methodist Episcopal Zion Church'
+p69
+S'Mother_African_Methodist_Episcopal_Zion_Church.png'
+p70
+sS'FDNY Fire Zone'
+p71
+S'FDNY_Fire_Zone.png'
+p72
+sS'New York City Supreme Court'
+p73
+S'New_York_City_Supreme_Court.png'
+p74
+sS'Dana Discovery Center'
+p75
+S'Dana_Discovery_Center.png'
+p76
+sS'Chinatown'
+p77
+S'Chinatown.png'
+p78
+sS'Stone Street Historic District'
+p79
+S'Stone_Street_Historic_District.png'
+p80
+sS'Alexander Hamilton Statue'
+p81
+S'Alexander_Hamilton_Statue.png'
+p82
+sS'Friedsam Memorial Carousel'
+p83
+S'Friedsam_Memorial_Carousel.png'
+p84
+sS'No. 19 Washington Square'
+p85
+S'No_19_Washington_Square.png'
+p86
+sS'Town Hall'
+p87
+S'Town_Hall.png'
+p88
+sS'Williamsburg Bridge'
+p89
+S'Williamsburg_Bridge.png'
+p90
+sS'United Nations Headquarters'
+p91
+S'United_Nations_Headquarters.png'
+p92
+sS'St. Peter Church'
+p93
+S'St_Peter_Church.png'
+p94
+sS'Upper West Side'
+p95
+S'Upper_West_Side.png'
+p96
+sS'Harlem'
+p97
+S'Harlem.png'
+p98
+sS'Park Avenue'
+p99
+S'Park_Avenue.png'
+p100
+sS'New York Buddhist Church'
+p101
+S'New_York_Buddhist_Church.png'
+p102
+sS'Wagner Cove'
+p103
+S'Wagner_Cove.png'
+p104
+sS'General Grant National Memorial'
+p105
+S'General_Grant_National_Memorial.png'
+p106
+sS'Ford Foundation Building'
+p107
+S'Ford_Foundation_Building.png'
+p108
+sS"St. Bartholomew's Church"
+p109
+S'St_Bartholomews_Church.png'
+p110
+sS'Hudson Street'
+p111
+S'Hudson_Street.png'
+p112
+sS"Cleopatra's Needle"
+p113
+S'Cleopatras_Needle.png'
+p114
+sS"Strivers' Row"
+p115
+S'Strivers_Row.png'
+p116
+sS'Library Way'
+p117
+S'Library_Way.png'
+p118
+sS"Christ and St. Stephen's Episcopal Church"
+p119
+S'Christ_and_St_Stephens_Episcopal_Church.png'
+p120
+sS'Jacqueline Kennedy Onassis Reservoir'
+p121
+S'Jacqueline_Kennedy_Onassis_Reservoir.png'
+p122
+sS'United Palace'
+p123
+S'United_Palace.png'
+p124
+sS'Sea Glass Carousel'
+p125
+S'Sea_Glass_Carousel.png'
+p126
+sS'92nd Street Y Tisch Center for the Arts'
+p127
+S'92nd_Street_Y_Tisch_Center_for_the_Arts.png'
+p128
+sS'Mahayana Buddhist Temple'
+p129
+S'Mahayana_Buddhist_Temple.png'
+p130
+sS'Grace Church'
+p131
+S'Grace_Church.png'
+p132
+sS'East Village'
+p133
+S'East_Village.png'
+p134
+sS'Broadway'
+p135
+S'Broadway.png'
+p136
+sS'Jean Dubuffet - Group of Four Trees'
+p137
+S'Jean_Dubuffet__Group_of_Four_Trees.png'
+p138
+sS'Rockaways'
+p139
+S'Rockaways.png'
+p140
+sS'Holographic Studios'
+p141
+S'Holographic_Studios.png'
+p142
+sS'Avant Gallery'
+p143
+S'Avant_Gallery.png'
+p144
+sS'Lower East Side'
+p145
+S'Lower_East_Side.png'
+p146
+sS'Eastern States Buddhist Temple of America'
+p147
+S'Eastern_States_Buddhist_Temple_of_America.png'
+p148
+sS'Ellis Island'
+p149
+S'Ellis_Island.png'
+p150
+sS'Antioch Baptist Church New York'
+p151
+S'Antioch_Baptist_Church_New_York.png'
+p152
+sS'Statue of Lenin'
+p153
+S'Statue_of_Lenin.png'
+p154
+sS'New York University'
+p155
+S'New_York_University.png'
+p156
+sS'Upper East Side'
+p157
+S'Upper_East_Side.png'
+p158
+sS'Fred F. French Building'
+p159
+S'Fred_F_French_Building.png'
+p160
+sS'Pier 17'
+p161
+S'Pier_17.png'
+p162
+sS'75 1/2 Bedford Street'
+p163
+S'75_12_Bedford_Street.png'
+p164
+sS'The New York Mosque'
+p165
+S'The_New_York_Mosque.png'
+p166
+sS'Beekman Place'
+p167
+S'Beekman_Place.png'
+p168
+sS'Citi Field'
+p169
+S'Citi_Field.png'
+p170
+sS'Central Park'
+p171
+S'Central_Park.png'
+p172
+sS'Bethel Gospel Assembly'
+p173
+S'Bethel_Gospel_Assembly.png'
+p174
+sS'Riverside Drive'
+p175
+S'Riverside_Drive.png'
+p176
+sS'Fulton Center'
+p177
+S'Fulton_Center.png'
+p178
+sS'Hans Christian Andersen Statue'
+p179
+S'Hans_Christian_Andersen_Statue.png'
+p180
+sS'Seagram Building'
+p181
+S'Seagram_Building.png'
+p182
+sS'Madison Square'
+p183
+S'Madison_Square.png'
+p184
+sS'First Corinthian Baptist Church'
+p185
+S'First_Corinthian_Baptist_Church.png'
+p186
+sS'The Cloisters'
+p187
+S'The_Cloisters.png'
+p188
+sS'Edward Tyler Nahem Fine Art'
+p189
+S'Edward_Tyler_Nahem_Fine_Art.png'
+p190
+sS'William Jenkins Worth Monument'
+p191
+S'William_Jenkins_Worth_Monument.png'
+p192
+sS'Trip to Bountiful'
+p193
+S'Trip_to_Bountiful.png'
+p194
+sS'Greenwich Village'
+p195
+S'Greenwich_Village.png'
+p196
+sS'Strawberry Fields, John Lennon Memorial'
+p197
+S'Strawberry_Fields_John_Lennon_Memorial.png'
+p198
+sS'Times Square Church'
+p199
+S'Times_Square_Church.png'
+p200
+sS'FDNY Memorial Wall'
+p201
+S'FDNY_Memorial_Wall.png'
+p202
+sS'Aperture Foundation Gallery'
+p203
+S'Aperture_Foundation_Gallery.png'
+p204
+sS'Washington Square Arch'
+p205
+S'Washington_Square_Arch.png'
+p206
+sS'Meatpacking District'
+p207
+S'Meatpacking_District.png'
+p208
+sS'The National Arts Club'
+p209
+S'The_National_Arts_Club.png'
+p210
+sS'Colonnade Row'
+p211
+S'Colonnade_Row.png'
+p212
+sS'United States Custom House'
+p213
+S'United_States_Custom_House.png'
+p214
+sS'Woolworth Building'
+p215
+S'Woolworth_Building.png'
+p216
+sS'Kehila Kedosha Janina'
+p217
+S'Kehila_Kedosha_Janina.png'
+p218
+sS'Columbus Circle'
+p219
+S'Columbus_Circle.png'
+p220
+sS'Algonquin Hotel'
+p221
+S'Algonquin_Hotel.png'
+p222
+sS'Shiloh Baptist Church'
+p223
+S'Shiloh_Baptist_Church.png'
+p224
+sS'Chrysler Building'
+p225
+S'Chrysler_Building.png'
+p226
+sS'Sikkema Jenkins Company'
+p227
+S'Sikkema_Jenkins_Company.png'
+p228
+sS"Tom's Diner"
+p229
+S'Toms_Diner.png'
+p230
+sS'Mount Neboh Baptist Church'
+p231
+S'Mount_Neboh_Baptist_Church.png'
+p232
+sS'One World Observatory - World Trade Center'
+p233
+S'One_World_Observatory__World_Trade_Center.png'
+p234
+sS'42nd Street'
+p235
+S'42nd_Street.png'
+p236
+sS'Skyscraper Museum'
+p237
+S'Skyscraper_Museum.png'
+p238
+sS'American Merchant Marines Memorial'
+p239
+S'American_Merchant_Marines_Memorial.png'
+p240
+sS'Americas Society'
+p241
+S'Americas_Society.png'
+p242
+sS'African Burial Ground National Monument'
+p243
+S'African_Burial_Ground_National_Monument.png'
+p244
+sS'Schomburg Center for Research in Black Culture'
+p245
+S'Schomburg_Center_for_Research_in_Black_Culture.png'
+p246
+sS'New York Mercantile Exchange'
+p247
+S'New_York_Mercantile_Exchange.png'
+p248
+sS'Joan of Arc Memorial'
+p249
+S'Joan_of_Arc_Memorial.png'
+p250
+sS'Ebenezer Gospel Tabernacle'
+p251
+S'Ebenezer_Gospel_Tabernacle.png'
+p252
+sS'George Washington Bridge'
+p253
+S'George_Washington_Bridge.png'
+p254
+sS'The Episcopal Church of The Heavenly Rest'
+p255
+S'The_Episcopal_Church_of_The_Heavenly_Rest.png'
+p256
+sS"Randall's Island Park"
+p257
+S'Randalls_Island_Park.png'
+p258
+sS'Herald Square'
+p259
+S'Herald_Square.png'
+p260
+sS'Holy Trinity Greek Orthodox Cathedral'
+p261
+S'Holy_Trinity_Greek_Orthodox_Cathedral.png'
+p262
+sS'The High Line'
+p263
+S'The_High_Line.png'
+p264
+sS'Abyssinian Baptist Church'
+p265
+S'Abyssinian_Baptist_Church.png'
+p266
+sS'Zuccotti Park'
+p267
+S'Zuccotti_Park.png'
+p268
+sS'Friends Building'
+p269
+S'Friends_Building.png'
+p270
+sS'Riverside Church'
+p271
+S'Riverside_Church.png'
+p272
+sS'Marble Collegiate Church'
+p273
+S'Marble_Collegiate_Church.png'
+p274
+sS'Alphabet City'
+p275
+S'Alphabet_City.png'
+p276
+sS'GhostBusters Firestation'
+p277
+S'GhostBusters_Firestation.png'
+p278
+sS'Church of Our Lady of Mount Carmel'
+p279
+S'Church_of_Our_Lady_of_Mount_Carmel.png'
+p280
+sS'New York Marble Cemetery'
+p281
+S'New_York_Marble_Cemetery.png'
+p282
+sS'Leo Costelli Gallery, new york city, usa'
+p283
+S'Leo_Costelli_Gallery_new_york_city_usa.png'
+p284
+sS'Robert F. Kennedy Bridge'
+p285
+S'Robert_F_Kennedy_Bridge.png'
+p286
+sS"St. Patrick's Cathedral"
+p287
+S'St_Patricks_Cathedral.png'
+p288
+sS'Barrymore Theater'
+p289
+S'Barrymore_Theater.png'
+p290
+sS'The Church of St. Ignatius Loyola'
+p291
+S'The_Church_of_St_Ignatius_Loyola.png'
+p292
+sS'St. Francis de Sales Church'
+p293
+S'St_Francis_de_Sales_Church.png'
+p294
+sS'Queensboro Bridge'
+p295
+S'Queensboro_Bridge.png'
+p296
+sS'Rose Center for Earth and Space'
+p297
+S'Rose_Center_for_Earth_and_Space.png'
+p298
+sS'Convent Avenue Baptist Church'
+p299
+S'Convent_Avenue_Baptist_Church.png'
+p300
+sS'Kadampa Meditation Center New York City'
+p301
+S'Kadampa_Meditation_Center_New_York_City.png'
+p302
+sS'Manhattan Skyline'
+p303
+S'Manhattan_Skyline.png'
+p304
+sS'Frank Gehry Building'
+p305
+S'Frank_Gehry_Building.png'
+p306
+sS'Church of St. Michael'
+p307
+S'Church_of_St_Michael.png'
+p308
+sS'Ghostbusters Building'
+p309
+S'Ghostbusters_Building.png'
+p310
+sS'Fuentiduena Chapel'
+p311
+S'Fuentiduena_Chapel.png'
+p312
+sS'Red Cube'
+p313
+S'Red_Cube.png'
+p314
+sS'Chelsea Hotel'
+p315
+S'Chelsea_Hotel.png'
+p316
+sS'Saint Paul Baptist Church'
+p317
+S'Saint_Paul_Baptist_Church.png'
+p318
+sS'New York Stock Exchange'
+p319
+S'New_York_Stock_Exchange.png'
+p320
+sS'SUMO'
+p321
+S'SUMO.png'
+p322
+sS'Kelly Temple'
+p323
+S'Kelly_Temple.png'
+p324
+sS'Hixenbaugh Ancient Art'
+p325
+S'Hixenbaugh_Ancient_Art.png'
+p326
+sS'Stephen A. Schwarzman Building'
+p327
+S'Stephen_A_Schwarzman_Building.png'
+p328
+sS'One Chase Manhattan Plaza'
+p329
+S'One_Chase_Manhattan_Plaza.png'
+p330
+sS'Museum Mile'
+p331
+S'Museum_Mile.png'
+p332
+sS'Federal Hall'
+p333
+S'Federal_Hall.png'
+p334
+sS'The Municipal Building'
+p335
+S'The_Municipal_Building.png'
+p336
+sS'Trinity Church Cemetery & Mausoleum'
+p337
+S'Trinity_Church_Cemetery__Mausoleum.png'
+p338
+sS'Shrine of Frances Xavier Cabrini'
+p339
+S'Shrine_of_Frances_Xavier_Cabrini.png'
+p340
+sS'Elizabeth Street'
+p341
+S'Elizabeth_Street.png'
+p342
+sS'Cathedral Church of Saint John the Divine'
+p343
+S'Cathedral_Church_of_Saint_John_the_Divine.png'
+p344
+sS'Times Square'
+p345
+S'Times_Square.png'
+p346
+sS'Love Sculpture'
+p347
+S'Love_Sculpture.png'
+p348
+sS'Central Synagogue'
+p349
+S'Central_Synagogue.png'
+p350
+sS'Church of the Holy Trinity'
+p351
+S'Church_of_the_Holy_Trinity.png'
+p352
+sS'New York Yacht Club'
+p353
+S'New_York_Yacht_Club.png'
+p354
+sS'Fifth Avenue'
+p355
+S'Fifth_Avenue.png'
+p356
+sS'Cathedral Church of St. Thomas the Apostle'
+p357
+S'Cathedral_Church_of_St_Thomas_the_Apostle.png'
+p358
+sS'Memorial Baptist Church'
+p359
+S'Memorial_Baptist_Church.png'
+p360
+sS'New York 911'
+p361
+S'New_York_911.png'
+p362
+sS'Tudor City'
+p363
+S'Tudor_City.png'
+p364
+sS'Peace Fountain - Friedensbrunnen'
+p365
+S'Peace_Fountain__Friedensbrunnen.png'
+p366
+sS'The New York Earth Room'
+p367
+S'The_New_York_Earth_Room.png'
+p368
+sS'Top of the Rock Observation Deck'
+p369
+S'Top_of_the_Rock_Observation_Deck.png'
+p370
+sS'Trapeze School New York'
+p371
+S'Trapeze_School_New_York.png'
+p372
+sS'Temple Emanu-El'
+p373
+S'Temple_EmanuEl.png'
+p374
+sS'Corpus Christi Church'
+p375
+S'Corpus_Christi_Church.png'
+p376
+sS'City Hall Park Visitor Information Center'
+p377
+S'City_Hall_Park_Visitor_Information_Center.png'
+p378
+sS'Cooper Union Foundation Building'
+p379
+S'Cooper_Union_Foundation_Building.png'
+p380
+sS'Columbia University'
+p381
+S'Columbia_University.png'
+p382
+sS'New York Public Library for the Performing Arts'
+p383
+S'New_York_Public_Library_for_the_Performing_Arts.png'
+p384
+sS'Ground Zero Catholic Memorial'
+p385
+S'Ground_Zero_Catholic_Memorial.png'
+p386
+sS'Statue of Liberty'
+p387
+S'Statue_of_Liberty.png'
+p388
+sS'Church of Our Savior'
+p389
+S'Church_of_Our_Savior.png'
+p390
+sS'The Art of the Brick by Nathan Sawaya'
+p391
+S'The_Art_of_the_Brick_by_Nathan_Sawaya.png'
+p392
+sS'Empire State Building'
+p393
+S'Empire_State_Building.png'
+p394
+sS'Chelsea Piers'
+p395
+S'Chelsea_Piers.png'
+p396
+sS'Roosevlet House'
+p397
+S'Roosevlet_House.png'
+p398
+sS'The National 9/11 Memorial & Museum'
+p399
+S'The_National_911_Memorial__Museum.png'
+p400
+sS'James A. Farley Post Office'
+p401
+S'James_A_Farley_Post_Office.png'
+p402
+sS'Balto Statue'
+p403
+S'Balto_Statue.png'
+p404
+sS'Masjid Malcolm Shabazz Mosque'
+p405
+S'Masjid_Malcolm_Shabazz_Mosque.png'
+p406
+sS'St. Vartan Armenian Cathedral'
+p407
+S'St_Vartan_Armenian_Cathedral.png'
+p408
+sS'St. Nicholas Russian Orthodox Cathedral'
+p409
+S'St_Nicholas_Russian_Orthodox_Cathedral.png'
+p410
+sS'New York City Criminal Court'
+p411
+S'New_York_City_Criminal_Court.png'
+p412
+sS'Jazz at Lincoln Center'
+p413
+S'Jazz_at_Lincoln_Center.png'
+p414
+sS'Seventh Avenue'
+p415
+S'Seventh_Avenue.png'
+p416
+sS'Mount Vernon Hotel Museum & Garden'
+p417
+S'Mount_Vernon_Hotel_Museum__Garden.png'
+p418
+sS'Lincoln Square'
+p419
+S'Lincoln_Square.png'
+p420
+sS'6 1/2 Avenue'
+p421
+S'6_12_Avenue.png'
+p422
+sS'American Immigrant Wall of Honor'
+p423
+S'American_Immigrant_Wall_of_Honor.png'
+p424
+sS'Chelsea'
+p425
+S'Chelsea.png'
+p426
+sS'Carnegie Hill'
+p427
+S'Carnegie_Hill.png'
+p428
+sS'Radio City Music Hall'
+p429
+S'Radio_City_Music_Hall.png'
+p430
+sS"St. Joseph's Church in Greenwich Village"
+p431
+S'St_Josephs_Church_in_Greenwich_Village.png'
+p432
+sS'Castle Williams'
+p433
+S'Castle_Williams.png'
+p434
+sS'Church of Saint Mary the Virgin'
+p435
+S'Church_of_Saint_Mary_the_Virgin.png'
+p436
+sS"Governor's Island"
+p437
+S'Governors_Island.png'
+p438
+sS'Columbia Heights'
+p439
+S'Columbia_Heights.png'
+p440
+sS'New York Theater Workshop'
+p441
+S'New_York_Theater_Workshop.png'
+p442
+sS'Life Underground'
+p443
+S'Life_Underground.png'
+p444
+sS'Titanic Memorial Park'
+p445
+S'Titanic_Memorial_Park.png'
+p446
+sS'Castle Clinton National Monument'
+p447
+S'Castle_Clinton_National_Monument.png'
+p448
+sS'King Jagiello Monument'
+p449
+S'King_Jagiello_Monument.png'
+p450
+sS'Langston Hughes House'
+p451
+S'Langston_Hughes_House.png'
+p452
+sS'Saint Sava Serbian Orthodox Cathedral'
+p453
+S'Saint_Sava_Serbian_Orthodox_Cathedral.png'
+p454
+sS'Triumph of the Human Spirit'
+p455
+S'Triumph_of_the_Human_Spirit.png'
+p456
+sS'The Rink at Rockefeller Center'
+p457
+S'The_Rink_at_Rockefeller_Center.png'
+p458
+sS'Mt Olivet Baptist Church'
+p459
+S'Mt_Olivet_Baptist_Church.png'
+p460
+sS'New York Unearthed'
+p461
+S'New_York_Unearthed.png'
+p462
+sS'Pennsylvania Station'
+p463
+S'Pennsylvania_Station.png'
+p464
+sS'Federal Reserve Bank of New York'
+p465
+S'Federal_Reserve_Bank_of_New_York.png'
+p466
+sS'CBS Building'
+p467
+S'CBS_Building.png'
+p468
+sS'The Juilliard School'
+p469
+S'The_Juilliard_School.png'
+p470
+sS'South Street Seaport'
+p471
+S'South_Street_Seaport.png'
+p472
+sS'No. 7 Washington Square'
+p473
+S'No_7_Washington_Square.png'
+p474
+sS'Provincetown Playhouse'
+p475
+S'Provincetown_Playhouse.png'
+p476
+sS'General Electric Building'
+p477
+S'General_Electric_Building.png'
+p478
+sS'Maritime Industry Museum at Fort Schuyler'
+p479
+S'Maritime_Industry_Museum_at_Fort_Schuyler.png'
+p480
+sS'St. Anthony of Padua'
+p481
+S'St_Anthony_of_Padua.png'
+p482
+sS'Christ Church'
+p483
+S'Christ_Church.png'
+p484
+sS'Our Lady of Victory Church'
+p485
+S'Our_Lady_of_Victory_Church.png'
+p486
+sS'Statue of Confucius'
+p487
+S'Statue_of_Confucius.png'
+p488
+sS'Greater Refuge Temple'
+p489
+S'Greater_Refuge_Temple.png'
+p490
+sS'Charging Bull (Wall Street Bull)'
+p491
+S'Charging_Bull_Wall_Street_Bull.png'
+p492
+sS'St. Thomas Church'
+p493
+S'St_Thomas_Church.png'
+p494
+sS'Elmendorf Reformed Church'
+p495
+S'Elmendorf_Reformed_Church.png'
+p496
+sS'Shrine of St. Elizabeth Ann Seton'
+p497
+S'Shrine_of_St_Elizabeth_Ann_Seton.png'
+p498
+sS'Cultural Services of The French Embassy'
+p499
+S'Cultural_Services_of_The_French_Embassy.png'
+p500
+sS'MetLife Building'
+p501
+S'MetLife_Building.png'
+p502
+sS'Judson Memorial Church'
+p503
+S'Judson_Memorial_Church.png'
+p504
+sS'Pier 66 Maritime'
+p505
+S'Pier_66_Maritime.png'
+p506
+sS'Daily News Building'
+p507
+S'Daily_News_Building.png'
+p508
+sS'Lincoln Tunnel'
+p509
+S'Lincoln_Tunnel.png'
+p510
+sS'Jose de San Martin Statue'
+p511
+S'Jose_de_San_Martin_Statue.png'
+p512
+sS'Fraunces Tavern Museum'
+p513
+S'Fraunces_Tavern_Museum.png'
+p514
+sS'Guardian Angel Church'
+p515
+S'Guardian_Angel_Church.png'
+p516
+sS'Grand Central Terminal'
+p517
+S'Grand_Central_Terminal.png'
+p518
+sS'The Northern Dispersary'
+p519
+S'The_Northern_Dispersary.png'
+p520
+sS'United House of Prayer for All People'
+p521
+S'United_House_of_Prayer_for_All_People.png'
+p522
+sS'Cosby House'
+p523
+S'Cosby_House.png'
+p524
+sS"Mariners' Temple Baptist Church"
+p525
+S'Mariners_Temple_Baptist_Church.png'
+p526
+sS"St. Luke's Place"
+p527
+S'St_Lukes_Place.png'
+p528
+sS'Langon Chapel'
+p529
+S'Langon_Chapel.png'
+p530
+sS'Crystal District'
+p531
+S'Crystal_District.png'
+p532
+sS'Manhattan Bridge'
+p533
+S'Manhattan_Bridge.png'
+p534
+sS'Bowery'
+p535
+S'Bowery.png'
+p536
+sS'Citigroup Center'
+p537
+S'Citigroup_Center.png'
+p538
+sS'Church of the Incarnation'
+p539
+S'Church_of_the_Incarnation.png'
+p540
+sS'Theodore Roosevelt Birthplace National Historic Site'
+p541
+S'Theodore_Roosevelt_Birthplace_National_Historic_Site.png'
+p542
+sS'Dyckman Farmhouse Museum'
+p543
+S'Dyckman_Farmhouse_Museum.png'
+p544
+sS'Alleva Dairy'
+p545
+S'Alleva_Dairy.png'
+p546
+sS'Monumento a Cristobal Colon'
+p547
+S'Monumento_a_Cristobal_Colon.png'
+p548
+sS'SoHo'
+p549
+S'SoHo.png'
+p550
+sS'Pier 45'
+p551
+S'Pier_45.png'
+p552
+sS'Church of St. Paul the Apostle'
+p553
+S'Church_of_St_Paul_the_Apostle.png'
+p554
+sS'Helmsley Building'
+p555
+S'Helmsley_Building.png'
+p556
+sS'Hearst Tower'
+p557
+S'Hearst_Tower.png'
+p558
+sS'Wall Street'
+p559
+S'Wall_Street.png'
+p560
+sS'Ed Sullivan Theater'
+p561
+S'Ed_Sullivan_Theater.png'
+p562
+sS'Rubenstein Communications, Inc.'
+p563
+S'Rubenstein_Communications_Inc.png'
+p564
+sS'Harlem FIre Watchtower'
+p565
+S'Harlem_FIre_Watchtower.png'
+p566
+sS'Franklin Bowles Gallery NYC'
+p567
+S'Franklin_Bowles_Gallery_NYC.png'
+p568
+sS'Metropolitan Life Insurance Tower'
+p569
+S'Metropolitan_Life_Insurance_Tower.png'
+p570
+sS'Block Beautiful'
+p571
+S'Block_Beautiful.png'
+p572
+sS'Belvedere Castle'
+p573
+S'Belvedere_Castle.png'
+p574
+sS'Kinokuniya Book Stores of America'
+p575
+S'Kinokuniya_Book_Stores_of_America.png'
+p576
+sS'American Standard Building'
+p577
+S'American_Standard_Building.png'
+p578
+sS'Gracie Mansion'
+p579
+S'Gracie_Mansion.png'
+p580
+sS'Trinity Church'
+p581
+S'Trinity_Church.png'
+p582
+sS'New York City Fire Museum'
+p583
+S'New_York_City_Fire_Museum.png'
+p584
+sS"Ripley's Believe It or Not - Times Square"
+p585
+S'Ripleys_Believe_It_or_Not__Times_Square.png'
+p586
+sS'Sniffen Court Historic District'
+p587
+S'Sniffen_Court_Historic_District.png'
+p588
+sS"Soldiers' and Sailors Monument New York"
+p589
+S'Soldiers_and_Sailors_Monument_New_York.png'
+p590
+sS"St. Mark's-in-the-Bowery Church"
+p591
+S'St_MarksintheBowery_Church.png'
+p592
+sS'Tatiana Pages Gallery'
+p593
+S'Tatiana_Pages_Gallery.png'
+p594
+sS'Tweed Courthouse'
+p595
+S'Tweed_Courthouse.png'
+p596
+sS'Irish Arts Center'
+p597
+S'Irish_Arts_Center.png'
+p598
+sS'Arthur Avenue Retail Market'
+p599
+S'Arthur_Avenue_Retail_Market.png'
+p600
+sS'Little Italy'
+p601
+S'Little_Italy.png'
+p602
+sS'Little Red Lighthouse'
+p603
+S'Little_Red_Lighthouse.png'
+p604
+sS'Iglesia Luterana San Pedro'
+p605
+S'Iglesia_Luterana_San_Pedro.png'
+p606
+sS'St Andrew Church'
+p607
+S'St_Andrew_Church.png'
+p608
+sS'Loeb Boathouse'
+p609
+S'Loeb_Boathouse.png'
+p610
+sS'General Theological Seminary'
+p611
+S'General_Theological_Seminary.png'
+p612
+sS'Unisphere'
+p613
+S'Unisphere.png'
+p614
+sS'51-53 Christopher Street'
+p615
+S'5153_Christopher_Street.png'
+p616
+sS'Father Demo Square'
+p617
+S'Father_Demo_Square.png'
+p618
+sS'Church of the Intercession'
+p619
+S'Church_of_the_Intercession.png'
+p620
+sS'Grand Masonic Lodge of New York'
+p621
+S'Grand_Masonic_Lodge_of_New_York.png'
+p622
+sS'New York City Vietnam Veterans Memorial Plaza'
+p623
+S'New_York_City_Vietnam_Veterans_Memorial_Plaza.png'
+p624
+sS'Bethesda Fountain'
+p625
+S'Bethesda_Fountain.png'
+p626
+sS'Koreatown'
+p627
+S'Koreatown.png'
+p628
+sS'Union Square'
+p629
+S'Union_Square.png'
+p630
+sS'Duffy Square'
+p631
+S'Duffy_Square.png'
+p632
+sS'Church of the Transfiguration'
+p633
+S'Church_of_the_Transfiguration.png'
+p634
+sS'Adam Baumgold Gallery'
+p635
+S'Adam_Baumgold_Gallery.png'
+p636
+sS'Pier 54'
+p637
+S'Pier_54.png'
+p638
+sS'Brooklyn Cyclones Baseball - MCU Park'
+p639
+S'Brooklyn_Cyclones_Baseball__MCU_Park.png'
+p640
+sS'Fort Schuyler'
+p641
+S'Fort_Schuyler.png'
+p642
+sS'Orchard Street'
+p643
+S'Orchard_Street.png'
+p644
+sS'Trump Tower'
+p645
+S'Trump_Tower.png'
+p646
+sS'Lower Manhattan'
+p647
+S'Lower_Manhattan.png'
+p648
+sS'Brazil NY tour'
+p649
+S'Brazil_NY_tour.png'
+p650
+sS'Church of Saint Agnes'
+p651
+S'Church_of_Saint_Agnes.png'
+p652
+sS'Austrian Cultural Forum'
+p653
+S'Austrian_Cultural_Forum.png'
+p654
+sS'The Morgan Library & Museum'
+p655
+S'The_Morgan_Library__Museum.png'
+p656
+s.
