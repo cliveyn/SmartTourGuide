@@ -3,14 +3,14 @@
         <meta charset="utf-8">
         <title>Smart Tour Guide</title>
         
-        <link rel="stylesheet" type="text/css" href="STG_style.css">
+        <link rel="stylesheet" type="text/css" href="css/STG_style.css">
         
         <script src="http://code.jquery.com/jquery-2.0.0.min.js"></script>
-        <script src = "STG_script.js"></script>
-        <script src = "node_data.js"></script>
-        <script src = "nodes_pair1.js"></script>
-        <script src = "nodes_pair2.js"></script>
-        <script src = "nodes_pair3.js"></script>
+        <script src = "js/STG_script.js"></script>
+        <script src = "js/node_data.js"></script>
+        <script src = "js/nodes_pair1.js"></script>
+        <script src = "js/nodes_pair2.js"></script>
+        <script src = "js/nodes_pair3.js"></script>
         
         <script>
        
@@ -55,7 +55,7 @@
     <body>
         <div id="head">
             <div id = "head_box">
-                <img src = "logo.jpg" width = "300px" onclick="window.location.href='index.html'">
+                <img src = "images/logo.jpg" width = "300px" onclick="window.location.href='index.html'">
                 <a style = "float:right;" href = "SmartTourGuide_Report.pdf" target="_blank">How does it work?</a>
 		<a style = "float:right;">&nbsp;&nbsp;&nbsp;</a>
 		<a style = "float:right;" href = "mailto:susikyoon@gmail.com?Subject=Feedback for your application" target ="_blank">Feedback</a>
@@ -66,13 +66,13 @@
             </div>
         </div>
         <div id="preference">
-                <span>　① Priority <img src = "help.jpg" width=15 title = "We will consider the selected criteria most in recommendation. Choose one of them for more details"> : </span>
+                <span>　① Priority <img src = "images/help.jpg" width=15 title = "We will consider the selected criteria most in recommendation. Choose one of them for more details"> : </span>
 
                 <input type="radio" name="PRF" onClick = change_PRF(this.value) title = "Theme" value="0" checked > Theme
                 <input type="radio" name="PRF" onClick = change_PRF(this.value) title = "Closeness" value="1"> Closeness
                 <input type="radio" name="PRF" onClick = change_PRF(this.value) title = "Co-visited" value="2"> Co-visited
                 <br />
-                <span>　② Mode of Travel <img src = "help.jpg" width=15 title = "Tour route recommendation will be based on the selected type of mode"> :</span>
+                <span>　② Mode of Travel <img src = "images/help.jpg" width=15 title = "Tour route recommendation will be based on the selected type of mode"> :</span>
                 <input type="radio" name="MOD" value="DRIVING" checked > Driving
                 <input type="radio" name="MOD" value="BICYCLING"> Bicycle
                 <input type="radio" name="MOD" value="WALKING"> Walking
@@ -81,7 +81,7 @@
             <div id="container">
                 <div id="outer_box1" class="outer_box">
                     ▷1st tour spot
-                    <img src = "help.jpg" width=15 title = "Top six tour spots having a high centrality in our network">
+                    <img src = "images/help.jpg" width=15 title = "Top six tour spots having a high centrality in our network">
                     <button type="button" id="select1" value=1 class="select" onClick=button_change(this.value)>select</button>
                     <div id="box1" class="box">
                         <select id="choosebox1" class="choosebox" size="10" onChange=draw_marker(this.options[this.selectedIndex].value)></select>
@@ -89,7 +89,7 @@
                 </div>
                 <div id="outer_box2" class="outer_box" style="display:none;">
                     ▷2nd tour spot
-                    <img src = "help.jpg" width=15 title = "Top 10 tour spots recommended from the previous tour spot">
+                    <img src = "images/help.jpg" width=15 title = "Top 10 tour spots recommended from the previous tour spot">
                     <button type="button" id="select2" value=2 class="select" onClick=button_change(this.value)>select</button>
                     <div id="box2" class="box">
                         <select id="choosebox2" class="choosebox" size="10" onChange=draw_marker(this.options[this.selectedIndex].value)></select>
@@ -97,7 +97,7 @@
                 </div>
                 <div id="outer_box3" class="outer_box" style="display:none;">
                     ▷3rd tour spot
-                    <img src = "help.jpg" width=15 title = "Top 10 tour spots recommended from the previous tour spot">                    
+                    <img src = "images/help.jpg" width=15 title = "Top 10 tour spots recommended from the previous tour spot">                    
                     <button type="button" id="select3" value=3 class="select" onClick=button_change(this.value)>select</button>
                     <div id="box3" class="box">
                         <select id="choosebox3" class="choosebox" size="10" onChange=draw_marker(this.options[this.selectedIndex].value)></select>
@@ -105,7 +105,7 @@
                 </div>
                 <div id="outer_box4" class="outer_box" style="display:none;">
                     ▷4th tour spot
-                    <img src = "help.jpg" width=15 title = "Top 10 tour spots recommended from the previous tour spot">                    
+                    <img src = "images/help.jpg" width=15 title = "Top 10 tour spots recommended from the previous tour spot">                    
                     <button type="button" id="select4" value=4 class="select" onClick=button_change(this.value)>select</button>
                     <div id="box4" class="box">
                         <select id="choosebox4" class="choosebox" size="10" onChange=draw_marker(this.options[this.selectedIndex].value)></select>
@@ -114,7 +114,7 @@
             </div>
             <div id ="img_box">
                     <center>Wordcloud based on user review</center>
-                    <img id="WCbox" src='wordcloud.png' height=87% width=100% onerror="this.src='wordcloud.png';">
+                    <img id="WCbox" src='images/wordcloud.png' height=87% width=100% onerror="this.src='images/wordcloud.png';">
             </div>
         </div>
         
@@ -126,7 +126,7 @@
                     <br />
                     <button type="button" id="Default" value=1 onClick = "finalize('Default')" disabled >Your choice</button> 
                     <button type="button" id="Optimized" value=2 onClick = "finalize('Optimized')" disabled >Our optimization</button>
-                    <img src = "help.jpg" width=15 title = "Regardless of the order you choose">
+                    <img src = "images/help.jpg" width=15 title = "Regardless of the order you choose">
                     <br />
                     <span id = "total_result"></span>
                 </div>

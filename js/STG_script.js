@@ -21,7 +21,7 @@ function initMap() {
     ];              
     
      var marker_img = {
-        url: './circle.gif',
+        url: '../images/circle.gif',
         // This marker is 20 pixels wide by 32 pixels high.
         size: new google.maps.Size(100, 100)
         // The origin for this image is (0, 0).
@@ -62,7 +62,7 @@ function draw_marker(node_name) {
     map.setCenter(node_LatLng);
 
     //draw wordcloud
-    $("#WCbox").attr("src","./wordCloud/"+node_name.replace(/[,/&-]/gi,"").replace(/'/gi,"").replace(/ /gi,"_")+".png");
+    $("#WCbox").attr("src","wordCloud/"+node_name.replace(/[,/&-]/gi,"").replace(/'/gi,"").replace(/ /gi,"_")+".png");
 
 }
 
