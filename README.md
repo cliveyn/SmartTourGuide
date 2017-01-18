@@ -1,6 +1,6 @@
 # SmartTourGuide
 
-Demo URL: http://susikyoon.github.io/SmartTourGuide/SmartTravelGuide.html
+Demo URL: http://susikyoon.github.io/SmartTourGuide
 
 Demo screenshot:
 <img src = "https://github.com/SusikYoon/SmartTourGuide/blob/master/images/demo.JPG">
